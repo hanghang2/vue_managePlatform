@@ -1,0 +1,95 @@
+html{
+    font-family: "Helvetica Neue",Helvetica,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","\5FAE\8F6F\96C5\9ED1",Arial,sans-serif;
+    font-size: 12px;
+    line-height: 1.5;
+    color: #495060;
+}
+*{
+    margin: 0;
+    padding:0;
+}
+.zbtn{
+	background-color: white;
+    border: 1px solid #ccc;
+    color: #666;
+    padding: 4px 15px;
+    border-radius: 3px;
+    cursor: pointer;
+    outline: none;
+}
+.zbtn:hover{
+	background-color: #f7f7f7;
+}
+.zbtn:active{
+	background-color: #f1f1f1;
+}
+/*提交按钮*/
+.zyh-blue{
+	color: #fff;
+    background-color: #409eff;
+    border-color: #409eff;
+}
+.zyh-blue:hover{
+	background-color: #409eff;
+	opacity: 0.8;
+}
+.zyh-blue:active{
+	background-color: #409eff;
+	opacity: 0.8;
+}
+/*主要按钮*/
+.zyh-main{
+    color: #fff;
+    background-color: #D55515;
+    border-color: #D55515;
+}
+.zyh-main:hover{
+    background-color: #D55515;
+    opacity: 0.8;
+}
+.zyh-main:active{
+    background-color: #D55515;
+    opacity: 0.8;
+}
+/*成功按钮*/
+.zyh-success{
+    color: #fff;
+    background-color: #67C23A;
+    border-color: #67C23A;
+}
+.zyh-success:hover{
+    background-color: #67C23A;
+    opacity: 0.8;
+}
+.zyh-success:active{
+    background-color: #67C23A;
+    opacity: 0.8;
+}
+/*警告按钮*/
+.zyh-warning{
+    color: #fff;
+    background-color: #E6A23C;
+    border-color: #E6A23C;
+}
+.zyh-warning:hover{
+    background-color: #E6A23C;
+    opacity: 0.8;
+}
+.zyh-warning:active{
+    background-color: #E6A23C;
+    opacity: 0.8;
+}
+/*危险按钮*/
+.zyh-danger{
+    color: #fff;
+    background-color: #F56C6C;
+    border-color: #F56C6C;
+}
+.zyh-danger:hover{
+    background-color: #F56C6C;
+    opacity: 0.8;
+}
+.zyh-danger:active{
+    background-color: #F56C6C;
+    opacity: 0.8;
+}
